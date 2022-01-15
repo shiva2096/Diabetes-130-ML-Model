@@ -15,7 +15,7 @@ The data contains such attributes as patient number, race, gender, age, admissio
 
 **Target Variable** - Readmitted (whether the patient was readmitted within 30 days, or after 30 days, or did not get readmitted)
 
-## [Exploratory Data Analysis](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/EDA%20Report.pdf)
+## [Exploratory Data Analysis](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/EDA%20Diabetes130.pdf)
 
 For each attribute in the dataset, checking the distribution, performing hypothesis test with chi-squared and anova test, checking correlation and normality.
 
