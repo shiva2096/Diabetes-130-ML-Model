@@ -13,7 +13,7 @@ The dataset represents 10 years (1999-2008) of clinical care at 130 US hospitals
 
 The data contains such attributes as patient number, race, gender, age, admission type, time in hospital, medical specialty of admitting physician, number of lab test performed, HbA1c test result, diagnosis, number of medication, diabetic medications, number of outpatient, inpatient, and emergency visits in the year before the hospitalization, etc.
 
-**Target Variable** - Readmitted (whether the patient was readmitted withing 30 days, or after 30 days, or did not get readmitted)
+**Target Variable** - Readmitted (whether the patient was readmitted within 30 days, or after 30 days, or did not get readmitted)
 
 ## [Exploratory Data Analysis](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/EDA%20Report.pdf)
 
