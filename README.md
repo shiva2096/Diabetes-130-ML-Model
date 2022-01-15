@@ -18,3 +18,5 @@ The data contains such attributes as patient number, race, gender, age, admissio
 ## [Exploratory Data Analysis](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/EDA%20Report.pdf)
 
 For each attribute in the dataset, checking the distribution, performing hypothesis test with chi-squared and anova test, checking correlation and normality.
+
+![alt text](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/Images/01%20-%20T_Class%20dist%20bar.png?raw=True)
