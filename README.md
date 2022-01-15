@@ -21,7 +21,7 @@ For each attribute in the dataset, checking the distribution, performing hypothe
 
 ![alt text](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/Images/01%20-%20T_Class%20dist%20bar.png?raw=True)
 
-## [Working with Classifiers]()
+## [Working with Classifiers](https://github.com/shiva2096/Diabetes-130-ML-Model/blob/main/Modeling-1.pdf)
 
 Using Logistic Regression, NaiveBayes Classifier, SVM, Decision Trees and Nearest Neighbour algorithm for classifying the dataset in 3 classes.
 
